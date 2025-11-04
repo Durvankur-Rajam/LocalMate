@@ -1,11 +1,5 @@
-Perfect — you want your **LocalMate README** in the same clean, badge-rich, centered GitHub style 👌
 
-Here’s your updated and fully formatted **README.md** for **LocalMate**, following exactly that layout and design:
-
----
-
-````markdown
-<h1 align="center">🤖 LocalMate</h1>
+<h1 align="center">LocalMate</h1>
 
 <p align="center">
   <a href="https://github.com/Durvankur-Rajam/LocalMate/stargazers">
@@ -20,7 +14,7 @@ Here’s your updated and fully formatted **README.md** for **LocalMate**, follo
 </p>
 
 <p align="center">
-  A lightweight, privacy-focused <strong>desktop chatbot</strong> built using <strong>Java Swing</strong> and integrated with <strong>Ollama</strong> for local LLM interaction.  
+  A lightweight, privacy-focused <strong>desktop chatbot</strong> built using <strong>Java </strong> and integrated with <strong>Ollama</strong> for local LLM interaction.  
   Enjoy a completely offline AI chat experience — powered by your own machine!
 </p>
 
@@ -44,7 +38,6 @@ Here’s your updated and fully formatted **README.md** for **LocalMate**, follo
 | UI Framework | Java Swing (JFrame) |
 | LLM Backend | [Ollama](https://ollama.ai) |
 | Build Tool | Maven |
-| Platform | Cross-platform (Windows, Linux, macOS) |
 
 ---
 
@@ -70,7 +63,7 @@ cd LocalMate
 * Verify installation:
 
 ```bash
-ollama run llama2
+ollama run llama2 (Or any model of your choice)
 ```
 
 3. **Build the project**
@@ -83,33 +76,6 @@ mvn clean package
 
 ```bash
 java -jar target/LocalMate.jar
-```
-
----
-
-## 🧩 How It Works
-
-1. The app launches a **Swing-based chat interface**.
-2. When you send a message, LocalMate sends it to the **Ollama local server**.
-3. Ollama processes your input using a local model (e.g., `llama2`) and returns the response.
-4. The result is displayed in the chat window — with no internet or API calls.
-
----
-
-## 📁 Project Structure
-
-```
-LocalMate/
-├── pom.xml                # Maven configuration
-├── src/
-│   └── main/
-│       └── java/
-│           └── org/example/localmate/
-│               ├── Main.java
-│               ├── ChatWindow.java
-│               ├── OllamaClient.java
-│               └── Utils.java
-└── README.md
 ```
 
 ---
@@ -131,8 +97,6 @@ This project is open-source and available under the **MIT License**.
 ---
 
 <p align="center"> Made with ❤️ by <strong>Durvankur Rajam</strong> </p>
-```
 
----
 
-Would you like me to also add a **logo/banner image** section at the top (for example, “LocalMate” text with a robot icon), so it looks more like a polished open-source project page?
+
