@@ -2,18 +2,6 @@
 <h1 align="center">LocalMate</h1>
 
 <p align="center">
-  <a href="https://github.com/Durvankur-Rajam/LocalMate/stargazers">
-    <img src="https://img.shields.io/github/stars/Durvankur-Rajam/LocalMate?style=social" alt="GitHub stars"/>
-  </a>
-  <a href="https://github.com/Durvankur-Rajam/LocalMate/issues">
-    <img src="https://img.shields.io/github/issues/Durvankur-Rajam/LocalMate" alt="GitHub issues"/>
-  </a>
-  <a href="https://github.com/Durvankur-Rajam/LocalMate/network/members">
-    <img src="https://img.shields.io/github/forks/Durvankur-Rajam/LocalMate?style=social" alt="GitHub forks"/>
-  </a>
-</p>
-
-<p align="center">
   A lightweight, privacy-focused <strong>desktop chatbot</strong> built using <strong>Java </strong> and integrated with <strong>Ollama</strong> for local LLM interaction.  
   Enjoy a completely offline AI chat experience — powered by your own machine!
 </p>
