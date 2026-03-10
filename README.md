@@ -8,17 +8,17 @@
 
 ---
 
-## 🚀 Features
+## Features
 
-- 💬 Chat with a **local LLM** using Ollama  
-- 🪶 Built with **Java Swing (JFrame)** for a simple desktop UI  
-- ⚡ **Fast and private** — all processing done locally  
-- 🧠 Works with multiple Ollama models (like Llama2, Mistral, etc.)  
-- 🔌 Easy to configure and extend for developers  
+- Chat with a **local LLM** using Ollama  
+- Built with **Java Swing (JFrame)** for a simple desktop UI  
+- **Fast and private** — all processing done locally  
+- Works with multiple Ollama models (like Llama2, Mistral, etc.)  
+- Easy to configure and extend for developers  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component | Technology |
 |------------|-------------|
@@ -27,17 +27,10 @@
 | LLM Backend | [Ollama](https://ollama.ai) |
 | Build Tool | Maven |
 
----
-
-## 🎬 Demo
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjYzYmFjZjRjZjJmNTE5NDA2ZTZkYTU2OGQ2NjBiZTY4MmZjM2JjMCZjdD1n/kBrHBDDSyDZwR2l5Zn/giphy.gif" alt="LocalMate Demo" width="400"/>
-</p>
 
 ---
 
-## 🏗️ Installation & Setup
+##  Installation & Setup
 
 1. **Clone the repository**
 ```bash
@@ -68,13 +61,13 @@ java -jar target/LocalMate.jar
 
 ---
 
-## 🌱 Future Enhancements
+##  Future Enhancements
 
-* 🌗 Dark / Light mode UI
-* 💾 Chat history persistence
-* 🗣️ Voice input / output integration
-* 🧠 Model selection UI
-* ⚙️ Custom prompt templates
+*  Dark / Light mode UI
+*  Chat history persistence
+*  Voice input / output integration
+*  Model selection UI
+*  Custom prompt templates
 
 ---
 
